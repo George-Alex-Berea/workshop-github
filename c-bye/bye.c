@@ -2,7 +2,7 @@
 
 int main(void)
 {
-	printf("Bye from Unikraft!\n");
+	printf("Mor cu zile\n");
 
 	return 0;
 }
