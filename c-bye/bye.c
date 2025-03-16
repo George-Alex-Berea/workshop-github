@@ -2,7 +2,7 @@
 
 int main(void)
 {
-	printf("Bye from Unikraft!\n");
+	printf("Bye from Unikraft!\n\n");
 
 	return 0;
 }
